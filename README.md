@@ -76,7 +76,9 @@ looks _very much_ like HTML:
     JSX lets us include JavaScript functions right along with the HTML, and also
     allows us to add in components, which are separate, self-contained chunks of JSX.
   </p>
-  <ExampleComponent />
+  <ExampleComponent /> 
+
+
 </div>
 ```
 
